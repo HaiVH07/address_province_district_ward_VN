@@ -1,0 +1,5119 @@
+{
+    "1": {
+        "name": "Qu\u1eadn Ba \u0110\u00ecnh",
+        "code": 1,
+        "division_type": "qu\u1eadn",
+        "codename": "quan_ba_dinh",
+        "province_code": 1,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u00fac X\u00e1",
+                "code": 1,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phuc_xa",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Tr\u00fac B\u1ea1ch",
+                "code": 4,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_truc_bach",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng V\u0129nh Ph\u00fac",
+                "code": 6,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_vinh_phuc",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng C\u1ed1ng V\u1ecb",
+                "code": 7,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_cong_vi",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Li\u1ec5u Giai",
+                "code": 8,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_lieu_giai",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Trung Tr\u1ef1c",
+                "code": 10,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_nguyen_trung_truc",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh",
+                "code": 13,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_quan_thanh",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ng\u1ecdc H\u00e0",
+                "code": 16,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_ngoc_ha",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean",
+                "code": 19,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_dien_bien",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ed9i C\u1ea5n",
+                "code": 22,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_doi_can",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ng\u1ecdc Kh\u00e1nh",
+                "code": 25,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_ngoc_khanh",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Kim M\u00e3",
+                "code": 28,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_kim_ma",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Gi\u1ea3ng V\u00f5",
+                "code": 31,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_giang_vo",
+                "district_code": 1
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Th\u00e0nh C\u00f4ng",
+                "code": 34,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_thanh_cong",
+                "district_code": 1
+            }
+        ]
+    },
+    "2": {
+        "name": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+        "code": 2,
+        "division_type": "qu\u1eadn",
+        "codename": "quan_hoan_kiem",
+        "province_code": 1,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u00fac T\u00e2n",
+                "code": 37,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phuc_tan",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ed3ng Xu\u00e2n",
+                "code": 40,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_dong_xuan",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng M\u00e3",
+                "code": 43,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_ma",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Bu\u1ed3m",
+                "code": 46,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_buom",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng \u0110\u00e0o",
+                "code": 49,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_dao",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ed3",
+                "code": 52,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_bo",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng C\u1eeda \u0110\u00f4ng",
+                "code": 55,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_cua_dong",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5",
+                "code": 58,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_ly_thai_to",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ea1c",
+                "code": 61,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_bac",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Gai",
+                "code": 64,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_gai",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ch\u01b0\u01a1ng D\u01b0\u01a1ng",
+                "code": 67,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_chuong_duong",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng Tr\u1ed1ng",
+                "code": 70,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_trong",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng C\u1eeda Nam",
+                "code": 73,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_cua_nam",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00f4ng",
+                "code": 76,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_bong",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Tr\u00e0ng Ti\u1ec1n",
+                "code": 79,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_trang_tien",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+                "code": 82,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tran_hung_dao",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Phan Chu Trinh",
+                "code": 85,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phan_chu_trinh",
+                "district_code": 2
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u00e0i",
+                "code": 88,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_bai",
+                "district_code": 2
+            }
+        ]
+    },
+    "4": {
+        "name": "Qu\u1eadn Long Bi\u00ean",
+        "code": 4,
+        "division_type": "qu\u1eadn",
+        "codename": "quan_long_bien",
+        "province_code": 1,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Th\u01b0\u1ee3ng Thanh",
+                "code": 115,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_thuong_thanh",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ng\u1ecdc Th\u1ee5y",
+                "code": 118,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_ngoc_thuy",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Giang Bi\u00ean",
+                "code": 121,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_giang_bien",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ee9c Giang",
+                "code": 124,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_duc_giang",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Vi\u1ec7t H\u01b0ng",
+                "code": 127,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_viet_hung",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Gia Th\u1ee5y",
+                "code": 130,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_gia_thuy",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ng\u1ecdc L\u00e2m",
+                "code": 133,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_ngoc_lam",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u00fac L\u1ee3i",
+                "code": 136,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phuc_loi",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng B\u1ed3 \u0110\u1ec1",
+                "code": 139,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_bo_de",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng S\u00e0i \u0110\u1ed3ng",
+                "code": 142,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_sai_dong",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Long Bi\u00ean",
+                "code": 145,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_long_bien",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Th\u1ea1ch B\u00e0n",
+                "code": 148,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_thach_ban",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u00fac \u0110\u1ed3ng",
+                "code": 151,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phuc_dong",
+                "district_code": 4
+            },
+            {
+                "name": "Ph\u01b0\u1eddng C\u1ef1 Kh\u1ed1i",
+                "code": 154,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_cu_khoi",
+                "district_code": 4
+            }
+        ]
+    },
+    "6": {
+        "name": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+        "code": 6,
+        "division_type": "qu\u1eadn",
+        "codename": "quan_dong_da",
+        "province_code": 1,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng C\u00e1t Linh",
+                "code": 178,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_cat_linh",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng V\u0103n Mi\u1ebfu",
+                "code": 181,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_van_mieu",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Qu\u1ed1c T\u1eed Gi\u00e1m",
+                "code": 184,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_quoc_tu_giam",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng L\u00e1ng Th\u01b0\u1ee3ng",
+                "code": 187,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_lang_thuong",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u00d4 Ch\u1ee3 D\u1eeba",
+                "code": 190,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_o_cho_dua",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng V\u0103n Ch\u01b0\u01a1ng",
+                "code": 193,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_van_chuong",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u00e0ng B\u1ed9t",
+                "code": 196,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hang_bot",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng L\u00e1ng H\u1ea1",
+                "code": 199,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_lang_ha",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Kh\u00e2m Thi\u00ean",
+                "code": 202,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_kham_thien",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Th\u1ed5 Quan",
+                "code": 205,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tho_quan",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Nam \u0110\u1ed3ng",
+                "code": 208,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_nam_dong",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Trung Ph\u1ee5ng",
+                "code": 211,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_trung_phung",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Quang Trung",
+                "code": 214,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_quang_trung",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Trung Li\u1ec7t",
+                "code": 217,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_trung_liet",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u01b0\u01a1ng Li\u00ean",
+                "code": 220,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phuong_lien",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Th\u1ecbnh Quang",
+                "code": 223,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_thinh_quang",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Trung T\u1ef1",
+                "code": 226,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_trung_tu",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Kim Li\u00ean",
+                "code": 229,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_kim_lien",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u01b0\u01a1ng Mai",
+                "code": 232,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phuong_mai",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ng\u00e3 T\u01b0 S\u1edf",
+                "code": 235,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_nga_tu_so",
+                "district_code": 6
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Kh\u01b0\u01a1ng Th\u01b0\u1ee3ng",
+                "code": 238,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_khuong_thuong",
+                "district_code": 6
+            }
+        ]
+    },
+    "8": {
+        "name": "Qu\u1eadn Ho\u00e0ng Mai",
+        "code": 8,
+        "division_type": "qu\u1eadn",
+        "codename": "quan_hoang_mai",
+        "province_code": 1,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Thanh Tr\u00ec",
+                "code": 301,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_thanh_tri",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng V\u0129nh H\u01b0ng",
+                "code": 304,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_vinh_hung",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ecbnh C\u00f4ng",
+                "code": 307,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_dinh_cong",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Mai \u0110\u1ed9ng",
+                "code": 310,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_mai_dong",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng T\u01b0\u01a1ng Mai",
+                "code": 313,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tuong_mai",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ea1i Kim",
+                "code": 316,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_dai_kim",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng T\u00e2n Mai",
+                "code": 319,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tan_mai",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ho\u00e0ng V\u0103n Th\u1ee5",
+                "code": 322,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hoang_van_thu",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Gi\u00e1p B\u00e1t",
+                "code": 325,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_giap_bat",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng L\u0129nh Nam",
+                "code": 328,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_linh_nam",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Th\u1ecbnh Li\u1ec7t",
+                "code": 331,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_thinh_liet",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Tr\u1ea7n Ph\u00fa",
+                "code": 334,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tran_phu",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ho\u00e0ng Li\u1ec7t",
+                "code": 337,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hoang_liet",
+                "district_code": 8
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Y\u00ean S\u1edf",
+                "code": 340,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_yen_so",
+                "district_code": 8
+            }
+        ]
+    },
+    "10": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "11": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "12": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "14": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "15": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "17": {
+        "name": "Huy\u1ec7n \u0110\u00f4ng Anh",
+        "code": 17,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_dong_anh",
+        "province_code": 1,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n \u0110\u00f4ng Anh",
+                "code": 454,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_dong_anh",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n N\u1ed9n",
+                "code": 457,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_non",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Thu\u1ef5 L\u00e2m",
+                "code": 460,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuy_lam",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 B\u1eafc H\u1ed3ng",
+                "code": 463,
+                "division_type": "x\u00e3",
+                "codename": "xa_bac_hong",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Nguy\u00ean Kh\u00ea",
+                "code": 466,
+                "division_type": "x\u00e3",
+                "codename": "xa_nguyen_khe",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Nam H\u1ed3ng",
+                "code": 469,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_hong",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Ti\u00ean D\u01b0\u01a1ng",
+                "code": 472,
+                "division_type": "x\u00e3",
+                "codename": "xa_tien_duong",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 V\u00e2n H\u00e0",
+                "code": 475,
+                "division_type": "x\u00e3",
+                "codename": "xa_van_ha",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Uy N\u1ed7",
+                "code": 478,
+                "division_type": "x\u00e3",
+                "codename": "xa_uy_no",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 V\u00e2n N\u1ed9i",
+                "code": 481,
+                "division_type": "x\u00e3",
+                "codename": "xa_van_noi",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Li\u00ean H\u00e0",
+                "code": 484,
+                "division_type": "x\u00e3",
+                "codename": "xa_lien_ha",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Vi\u1ec7t H\u00f9ng",
+                "code": 487,
+                "division_type": "x\u00e3",
+                "codename": "xa_viet_hung",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Kim N\u1ed7",
+                "code": 490,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_no",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Kim Chung",
+                "code": 493,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_chung",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 D\u1ee5c T\u00fa",
+                "code": 496,
+                "division_type": "x\u00e3",
+                "codename": "xa_duc_tu",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ea1i M\u1ea1ch",
+                "code": 499,
+                "division_type": "x\u00e3",
+                "codename": "xa_dai_mach",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 V\u0129nh Ng\u1ecdc",
+                "code": 502,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_ngoc",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 C\u1ed5 Loa",
+                "code": 505,
+                "division_type": "x\u00e3",
+                "codename": "xa_co_loa",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 H\u1ea3i B\u1ed1i",
+                "code": 508,
+                "division_type": "x\u00e3",
+                "codename": "xa_hai_boi",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n Canh",
+                "code": 511,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_canh",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 V\u00f5ng La",
+                "code": 514,
+                "division_type": "x\u00e3",
+                "codename": "xa_vong_la",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 T\u00e0m X\u00e1",
+                "code": 517,
+                "division_type": "x\u00e3",
+                "codename": "xa_tam_xa",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 Mai L\u00e2m",
+                "code": 520,
+                "division_type": "x\u00e3",
+                "codename": "xa_mai_lam",
+                "district_code": 17
+            },
+            {
+                "name": "X\u00e3 \u0110\u00f4ng H\u1ed9i",
+                "code": 523,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_hoi",
+                "district_code": 17
+            }
+        ]
+    },
+    "19": {
+        "name": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+        "code": 19,
+        "division_type": "qu\u1eadn",
+        "codename": "quan_nam_tu_liem",
+        "province_code": 1,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n",
+                "code": 592,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_cau_dien",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Xu\u00e2n Ph\u01b0\u01a1ng",
+                "code": 622,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_xuan_phuong",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u01b0\u01a1ng Canh",
+                "code": 623,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phuong_canh",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1",
+                "code": 625,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_my_dinh_1",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 2",
+                "code": 626,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_my_dinh_2",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng T\u00e2y M\u1ed7",
+                "code": 628,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tay_mo",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec",
+                "code": 631,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_me_tri",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u00fa \u0110\u00f4",
+                "code": 632,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phu_do",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ea1i M\u1ed7",
+                "code": 634,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_dai_mo",
+                "district_code": 19
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Trung V\u0103n",
+                "code": 637,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_trung_van",
+                "district_code": 19
+            }
+        ]
+    },
+    "20": {
+        "name": "Huy\u1ec7n Thanh Tr\u00ec",
+        "code": 20,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_thanh_tri",
+        "province_code": 1,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n V\u0103n \u0110i\u1ec3n",
+                "code": 640,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_van_dien",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Tri\u1ec1u",
+                "code": 643,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_trieu",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 Thanh Li\u1ec7t",
+                "code": 646,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_liet",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 Thanh Oai",
+                "code": 649,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_thanh_oai",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 H\u1eefu Ho\u00e0",
+                "code": 652,
+                "division_type": "x\u00e3",
+                "codename": "xa_huu_hoa",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 Tam Hi\u1ec7p",
+                "code": 655,
+                "division_type": "x\u00e3",
+                "codename": "xa_tam_hiep",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 T\u1ee9 Hi\u1ec7p",
+                "code": 658,
+                "division_type": "x\u00e3",
+                "codename": "xa_tu_hiep",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 Y\u00ean M\u1ef9",
+                "code": 661,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_my",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 V\u0129nh Qu\u1ef3nh",
+                "code": 664,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_quynh",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 Ng\u0169 Hi\u1ec7p",
+                "code": 667,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngu_hiep",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 Duy\u00ean H\u00e0",
+                "code": 670,
+                "division_type": "x\u00e3",
+                "codename": "xa_duyen_ha",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 Ng\u1ecdc H\u1ed3i",
+                "code": 673,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngoc_hoi",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 V\u1ea1n Ph\u00fac",
+                "code": 676,
+                "division_type": "x\u00e3",
+                "codename": "xa_van_phuc",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ea1i \u00e1ng",
+                "code": 679,
+                "division_type": "x\u00e3",
+                "codename": "xa_dai_ang",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 Li\u00ean Ninh",
+                "code": 682,
+                "division_type": "x\u00e3",
+                "codename": "xa_lien_ninh",
+                "district_code": 20
+            },
+            {
+                "name": "X\u00e3 \u0110\u00f4ng M\u1ef9",
+                "code": 685,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_my",
+                "district_code": 20
+            }
+        ]
+    },
+    "22": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "24": {
+        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 Giang",
+        "code": 24,
+        "division_type": "th\u00e0nh ph\u1ed1",
+        "codename": "thanh_pho_ha_giang",
+        "province_code": 2,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Quang Trung",
+                "code": 688,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_quang_trung",
+                "district_code": 24
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Tr\u1ea7n Ph\u00fa",
+                "code": 691,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tran_phu",
+                "district_code": 24
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ng\u1ecdc H\u00e0",
+                "code": 692,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_ngoc_ha",
+                "district_code": 24
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Tr\u00e3i",
+                "code": 694,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_nguyen_trai",
+                "district_code": 24
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Minh Khai",
+                "code": 697,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_minh_khai",
+                "district_code": 24
+            },
+            {
+                "name": "X\u00e3 Ng\u1ecdc \u0110\u01b0\u1eddng",
+                "code": 700,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngoc_duong",
+                "district_code": 24
+            },
+            {
+                "name": "X\u00e3 Ph\u01b0\u01a1ng \u0110\u1ed9",
+                "code": 946,
+                "division_type": "x\u00e3",
+                "codename": "xa_phuong_do",
+                "district_code": 24
+            },
+            {
+                "name": "X\u00e3 Ph\u01b0\u01a1ng Thi\u1ec7n",
+                "code": 949,
+                "division_type": "x\u00e3",
+                "codename": "xa_phuong_thien",
+                "district_code": 24
+            }
+        ]
+    },
+    "25": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "26": {
+        "name": "Huy\u1ec7n \u0110\u1ed3ng V\u0103n",
+        "code": 26,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_dong_van",
+        "province_code": 2,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n Ph\u00f3 B\u1ea3ng",
+                "code": 712,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_pho_bang",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 L\u0169ng C\u00fa",
+                "code": 715,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_cu",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 M\u00e1 L\u00e9",
+                "code": 718,
+                "division_type": "x\u00e3",
+                "codename": "xa_ma_le",
+                "district_code": 26
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n \u0110\u1ed3ng V\u0103n",
+                "code": 721,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_dong_van",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 L\u0169ng T\u00e1o",
+                "code": 724,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_tao",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 Ph\u1ed1 L\u00e0",
+                "code": 727,
+                "division_type": "x\u00e3",
+                "codename": "xa_pho_la",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 Th\u00e0i Ph\u00ecn T\u1ee7ng",
+                "code": 730,
+                "division_type": "x\u00e3",
+                "codename": "xa_thai_phin_tung",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 S\u1ee7ng L\u00e0",
+                "code": 733,
+                "division_type": "x\u00e3",
+                "codename": "xa_sung_la",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 X\u00e0 Ph\u00ecn",
+                "code": 736,
+                "division_type": "x\u00e3",
+                "codename": "xa_xa_phin",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 Ph\u00ecn",
+                "code": 739,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_phin",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 L\u1ee7ng",
+                "code": 742,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_lung",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 Ph\u1ed1 C\u00e1o",
+                "code": 745,
+                "division_type": "x\u00e3",
+                "codename": "xa_pho_cao",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 S\u00ednh L\u1ee7ng",
+                "code": 748,
+                "division_type": "x\u00e3",
+                "codename": "xa_sinh_lung",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 S\u1ea3ng T\u1ee7ng",
+                "code": 751,
+                "division_type": "x\u00e3",
+                "codename": "xa_sang_tung",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 L\u0169ng Th\u1ea7u",
+                "code": 754,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_thau",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 H\u1ed1 Qu\u00e1ng Ph\u00ecn",
+                "code": 757,
+                "division_type": "x\u00e3",
+                "codename": "xa_ho_quang_phin",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 V\u1ea7n Ch\u1ea3i",
+                "code": 760,
+                "division_type": "x\u00e3",
+                "codename": "xa_van_chai",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 L\u0169ng Ph\u00ecn",
+                "code": 763,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_phin",
+                "district_code": 26
+            },
+            {
+                "name": "X\u00e3 S\u1ee7ng Tr\u00e1i",
+                "code": 766,
+                "division_type": "x\u00e3",
+                "codename": "xa_sung_trai",
+                "district_code": 26
+            }
+        ]
+    },
+    "27": {
+        "name": "Huy\u1ec7n M\u00e8o V\u1ea1c",
+        "code": 27,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_meo_vac",
+        "province_code": 2,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n M\u00e8o V\u1ea1c",
+                "code": 769,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_meo_vac",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng Ph\u00f9ng",
+                "code": 772,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_phung",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 P\u1ea3i L\u1ee7ng",
+                "code": 775,
+                "division_type": "x\u00e3",
+                "codename": "xa_pai_lung",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 X\u00edn C\u00e1i",
+                "code": 778,
+                "division_type": "x\u00e3",
+                "codename": "xa_xin_cai",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 P\u1ea3 Vi",
+                "code": 781,
+                "division_type": "x\u00e3",
+                "codename": "xa_pa_vi",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 Gi\u00e0ng Chu Ph\u00ecn",
+                "code": 784,
+                "division_type": "x\u00e3",
+                "codename": "xa_giang_chu_phin",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 S\u1ee7ng Tr\u00e0",
+                "code": 787,
+                "division_type": "x\u00e3",
+                "codename": "xa_sung_tra",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 S\u1ee7ng M\u00e1ng",
+                "code": 790,
+                "division_type": "x\u00e3",
+                "codename": "xa_sung_mang",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 S\u01a1n V\u0129",
+                "code": 793,
+                "division_type": "x\u00e3",
+                "codename": "xa_son_vi",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 L\u1ee7ng",
+                "code": 796,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_lung",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 C\u00e1n Chu Ph\u00ecn",
+                "code": 799,
+                "division_type": "x\u00e3",
+                "codename": "xa_can_chu_phin",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 L\u0169ng P\u00f9",
+                "code": 802,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_pu",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 L\u0169ng Chinh",
+                "code": 805,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_chinh",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 T\u00e1t Ng\u00e0",
+                "code": 808,
+                "division_type": "x\u00e3",
+                "codename": "xa_tat_nga",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 N\u1eadm Ban",
+                "code": 811,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_ban",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 Kh\u00e2u Vai",
+                "code": 814,
+                "division_type": "x\u00e3",
+                "codename": "xa_khau_vai",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 Ni\u00eam T\u00f2ng",
+                "code": 815,
+                "division_type": "x\u00e3",
+                "codename": "xa_niem_tong",
+                "district_code": 27
+            },
+            {
+                "name": "X\u00e3 Ni\u00eam S\u01a1n",
+                "code": 817,
+                "division_type": "x\u00e3",
+                "codename": "xa_niem_son",
+                "district_code": 27
+            }
+        ]
+    },
+    "30": {
+        "name": "Huy\u1ec7n V\u1ecb Xuy\u00ean",
+        "code": 30,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_vi_xuyen",
+        "province_code": 2,
+        "wards": [
+            {
+                "name": "X\u00e3 Kim Th\u1ea1ch",
+                "code": 703,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_thach",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Ph\u00fa Linh",
+                "code": 706,
+                "division_type": "x\u00e3",
+                "codename": "xa_phu_linh",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Kim Linh",
+                "code": 709,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_linh",
+                "district_code": 30
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n V\u1ecb Xuy\u00ean",
+                "code": 913,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_vi_xuyen",
+                "district_code": 30
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n N\u00f4ng Tr\u01b0\u1eddng Vi\u1ec7t L\u00e2m",
+                "code": 916,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_nong_truong_viet_lam",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Minh T\u00e2n",
+                "code": 919,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_tan",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Thu\u1eadn Ho\u00e0",
+                "code": 922,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuan_hoa",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 T\u00f9ng B\u00e1",
+                "code": 925,
+                "division_type": "x\u00e3",
+                "codename": "xa_tung_ba",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Thanh Th\u1ee7y",
+                "code": 928,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_thuy",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Thanh \u0110\u1ee9c",
+                "code": 931,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_duc",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Phong Quang",
+                "code": 934,
+                "division_type": "x\u00e3",
+                "codename": "xa_phong_quang",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 X\u00edn Ch\u1ea3i",
+                "code": 937,
+                "division_type": "x\u00e3",
+                "codename": "xa_xin_chai",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Ph\u01b0\u01a1ng Ti\u1ebfn",
+                "code": 940,
+                "division_type": "x\u00e3",
+                "codename": "xa_phuong_tien",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Lao Ch\u1ea3i",
+                "code": 943,
+                "division_type": "x\u00e3",
+                "codename": "xa_lao_chai",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Cao B\u1ed3",
+                "code": 952,
+                "division_type": "x\u00e3",
+                "codename": "xa_cao_bo",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ea1o \u0110\u1ee9c",
+                "code": 955,
+                "division_type": "x\u00e3",
+                "codename": "xa_dao_duc",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng S\u01a1n",
+                "code": 958,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_son",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Linh H\u1ed3",
+                "code": 961,
+                "division_type": "x\u00e3",
+                "codename": "xa_linh_ho",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Qu\u1ea3ng Ng\u1ea7n",
+                "code": 964,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_ngan",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Vi\u1ec7t L\u00e2m",
+                "code": 967,
+                "division_type": "x\u00e3",
+                "codename": "xa_viet_lam",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Ng\u1ecdc Linh",
+                "code": 970,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngoc_linh",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Ng\u1ecdc Minh",
+                "code": 973,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngoc_minh",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 B\u1ea1ch Ng\u1ecdc",
+                "code": 976,
+                "division_type": "x\u00e3",
+                "codename": "xa_bach_ngoc",
+                "district_code": 30
+            },
+            {
+                "name": "X\u00e3 Trung Th\u00e0nh",
+                "code": 979,
+                "division_type": "x\u00e3",
+                "codename": "xa_trung_thanh",
+                "district_code": 30
+            }
+        ]
+    },
+    "31": {
+        "name": "Huy\u1ec7n B\u1eafc M\u00ea",
+        "code": 31,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_bac_me",
+        "province_code": 2,
+        "wards": [
+            {
+                "name": "X\u00e3 Minh S\u01a1n",
+                "code": 982,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_son",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 Gi\u00e1p Trung",
+                "code": 985,
+                "division_type": "x\u00e3",
+                "codename": "xa_giap_trung",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 Y\u00ean \u0110\u1ecbnh",
+                "code": 988,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_dinh",
+                "district_code": 31
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Y\u00ean Ph\u00fa",
+                "code": 991,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_yen_phu",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 Minh Ng\u1ecdc",
+                "code": 994,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_ngoc",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Phong",
+                "code": 997,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_phong",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 L\u1ea1c N\u00f4ng",
+                "code": 1000,
+                "division_type": "x\u00e3",
+                "codename": "xa_lac_nong",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 Ph\u00fa Nam",
+                "code": 1003,
+                "division_type": "x\u00e3",
+                "codename": "xa_phu_nam",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 Y\u00ean C\u01b0\u1eddng",
+                "code": 1006,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_cuong",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng T\u00e2n",
+                "code": 1009,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_tan",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 \u0110\u01b0\u1eddng \u00c2m",
+                "code": 1012,
+                "division_type": "x\u00e3",
+                "codename": "xa_duong_am",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 \u0110\u01b0\u1eddng H\u1ed3ng",
+                "code": 1015,
+                "division_type": "x\u00e3",
+                "codename": "xa_duong_hong",
+                "district_code": 31
+            },
+            {
+                "name": "X\u00e3 Phi\u00eang Lu\u00f4ng",
+                "code": 1018,
+                "division_type": "x\u00e3",
+                "codename": "xa_phieng_luong",
+                "district_code": 31
+            }
+        ]
+    },
+    "33": {
+        "name": "Huy\u1ec7n X\u00edn M\u1ea7n",
+        "code": 33,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_xin_man",
+        "province_code": 2,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n C\u1ed1c P\u00e0i",
+                "code": 1096,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_coc_pai",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 N\u00e0n X\u1ec9n",
+                "code": 1099,
+                "division_type": "x\u00e3",
+                "codename": "xa_nan_xin",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n D\u00edu",
+                "code": 1102,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_diu",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 Ch\u00ed C\u00e0",
+                "code": 1105,
+                "division_type": "x\u00e3",
+                "codename": "xa_chi_ca",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 X\u00edn M\u1ea7n",
+                "code": 1108,
+                "division_type": "x\u00e3",
+                "codename": "xa_xin_man",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 Th\u00e8n Ph\u00e0ng",
+                "code": 1114,
+                "division_type": "x\u00e3",
+                "codename": "xa_then_phang",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 Trung Th\u1ecbnh",
+                "code": 1117,
+                "division_type": "x\u00e3",
+                "codename": "xa_trung_thinh",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 P\u00e0 V\u1ea7y S\u1ee7",
+                "code": 1120,
+                "division_type": "x\u00e3",
+                "codename": "xa_pa_vay_su",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 C\u1ed1c R\u1ebf",
+                "code": 1123,
+                "division_type": "x\u00e3",
+                "codename": "xa_coc_re",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 Thu T\u00e0",
+                "code": 1126,
+                "division_type": "x\u00e3",
+                "codename": "xa_thu_ta",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 N\u00e0n Ma",
+                "code": 1129,
+                "division_type": "x\u00e3",
+                "codename": "xa_nan_ma",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 Nh\u00ecu",
+                "code": 1132,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_nhiu",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n Ng\u00f2",
+                "code": 1135,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_ngo",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 Ch\u1ebf L\u00e0",
+                "code": 1138,
+                "division_type": "x\u00e3",
+                "codename": "xa_che_la",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 N\u1ea5m D\u1ea9n",
+                "code": 1141,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_dan",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 Qu\u1ea3ng Nguy\u00ean",
+                "code": 1144,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_nguyen",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 N\u00e0 Ch\u00ec",
+                "code": 1147,
+                "division_type": "x\u00e3",
+                "codename": "xa_na_chi",
+                "district_code": 33
+            },
+            {
+                "name": "X\u00e3 Khu\u00f4n L\u00f9ng",
+                "code": 1150,
+                "division_type": "x\u00e3",
+                "codename": "xa_khuon_lung",
+                "district_code": 33
+            }
+        ]
+    },
+    "34": {
+        "name": "Huy\u1ec7n B\u1eafc Quang",
+        "code": 34,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_bac_quang",
+        "province_code": 2,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n Vi\u1ec7t Quang",
+                "code": 1153,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_viet_quang",
+                "district_code": 34
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n V\u0129nh Tuy",
+                "code": 1156,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_vinh_tuy",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 T\u00e2n L\u1eadp",
+                "code": 1159,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_lap",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Th\u00e0nh",
+                "code": 1162,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_thanh",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed3ng Ti\u1ebfn",
+                "code": 1165,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_tien",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed3ng T\u00e2m",
+                "code": 1168,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_tam",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Quang",
+                "code": 1171,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_quang",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng B\u00ecnh",
+                "code": 1174,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_binh",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 H\u1eefu S\u1ea3n",
+                "code": 1177,
+                "division_type": "x\u00e3",
+                "codename": "xa_huu_san",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 Kim Ng\u1ecdc",
+                "code": 1180,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_ngoc",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 Vi\u1ec7t Vinh",
+                "code": 1183,
+                "division_type": "x\u00e3",
+                "codename": "xa_viet_vinh",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 B\u1eb1ng H\u00e0nh",
+                "code": 1186,
+                "division_type": "x\u00e3",
+                "codename": "xa_bang_hanh",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 Quang Minh",
+                "code": 1189,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_minh",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 Li\u00ean Hi\u1ec7p",
+                "code": 1192,
+                "division_type": "x\u00e3",
+                "codename": "xa_lien_hiep",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 V\u00f4 \u0110i\u1ebfm",
+                "code": 1195,
+                "division_type": "x\u00e3",
+                "codename": "xa_vo_diem",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 Vi\u1ec7t H\u1ed3ng",
+                "code": 1198,
+                "division_type": "x\u00e3",
+                "codename": "xa_viet_hong",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 H\u00f9ng An",
+                "code": 1201,
+                "division_type": "x\u00e3",
+                "codename": "xa_hung_an",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ee9c Xu\u00e2n",
+                "code": 1204,
+                "division_type": "x\u00e3",
+                "codename": "xa_duc_xuan",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 Ti\u00ean Ki\u1ec1u",
+                "code": 1207,
+                "division_type": "x\u00e3",
+                "codename": "xa_tien_kieu",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 V\u0129nh H\u1ea3o",
+                "code": 1210,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_hao",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 V\u0129nh Ph\u00fac",
+                "code": 1213,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_phuc",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed3ng Y\u00ean",
+                "code": 1216,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_yen",
+                "district_code": 34
+            },
+            {
+                "name": "X\u00e3 \u0110\u00f4ng Th\u00e0nh",
+                "code": 1219,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_thanh",
+                "district_code": 34
+            }
+        ]
+    },
+    "35": {
+        "name": "Huy\u1ec7n Quang B\u00ecnh",
+        "code": 35,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_quang_binh",
+        "province_code": 2,
+        "wards": [
+            {
+                "name": "X\u00e3 Xu\u00e2n Minh",
+                "code": 1222,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_minh",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 Ti\u00ean Nguy\u00ean",
+                "code": 1225,
+                "division_type": "x\u00e3",
+                "codename": "xa_tien_nguyen",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Nam",
+                "code": 1228,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_nam",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n R\u1ecba",
+                "code": 1231,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_ria",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Th\u00e0nh",
+                "code": 1234,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_thanh",
+                "district_code": 35
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Y\u00ean B\u00ecnh",
+                "code": 1237,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_yen_binh",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Tr\u1ecbnh",
+                "code": 1240,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_trinh",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 T\u00e2n B\u1eafc",
+                "code": 1243,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_bac",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 B\u1eb1ng Lang",
+                "code": 1246,
+                "division_type": "x\u00e3",
+                "codename": "xa_bang_lang",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 Y\u00ean H\u00e0",
+                "code": 1249,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_ha",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 H\u01b0\u01a1ng S\u01a1n",
+                "code": 1252,
+                "division_type": "x\u00e3",
+                "codename": "xa_huong_son",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n Giang",
+                "code": 1255,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_giang",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 N\u00e0 Kh\u01b0\u01a1ng",
+                "code": 1258,
+                "division_type": "x\u00e3",
+                "codename": "xa_na_khuong",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 Ti\u00ean Y\u00ean",
+                "code": 1261,
+                "division_type": "x\u00e3",
+                "codename": "xa_tien_yen",
+                "district_code": 35
+            },
+            {
+                "name": "X\u00e3 V\u0129 Th\u01b0\u1ee3ng",
+                "code": 1264,
+                "division_type": "x\u00e3",
+                "codename": "xa_vi_thuong",
+                "district_code": 35
+            }
+        ]
+    },
+    "36": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "37": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "38": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "40": {
+        "name": "Th\u00e0nh ph\u1ed1 Cao B\u1eb1ng",
+        "code": 40,
+        "division_type": "th\u00e0nh ph\u1ed1",
+        "codename": "thanh_pho_cao_bang",
+        "province_code": 4,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng S\u00f4ng Hi\u1ebfn",
+                "code": 1267,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_song_hien",
+                "district_code": 40
+            },
+            {
+                "name": "Ph\u01b0\u1eddng S\u00f4ng B\u1eb1ng",
+                "code": 1270,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_song_bang",
+                "district_code": 40
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u1ee3p Giang",
+                "code": 1273,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hop_giang",
+                "district_code": 40
+            },
+            {
+                "name": "Ph\u01b0\u1eddng T\u00e2n Giang",
+                "code": 1276,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tan_giang",
+                "district_code": 40
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ng\u1ecdc Xu\u00e2n",
+                "code": 1279,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_ngoc_xuan",
+                "district_code": 40
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ec1 Th\u00e1m",
+                "code": 1282,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_de_tham",
+                "district_code": 40
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ho\u00e0 Chung",
+                "code": 1285,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hoa_chung",
+                "district_code": 40
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Duy\u1ec7t Trung",
+                "code": 1288,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_duyet_trung",
+                "district_code": 40
+            },
+            {
+                "name": "X\u00e3 V\u0129nh Quang",
+                "code": 1693,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_quang",
+                "district_code": 40
+            },
+            {
+                "name": "X\u00e3 H\u01b0ng \u0110\u1ea1o",
+                "code": 1705,
+                "division_type": "x\u00e3",
+                "codename": "xa_hung_dao",
+                "district_code": 40
+            },
+            {
+                "name": "X\u00e3 Chu Trinh",
+                "code": 1720,
+                "division_type": "x\u00e3",
+                "codename": "xa_chu_trinh",
+                "district_code": 40
+            }
+        ]
+    },
+    "42": {
+        "name": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+        "code": 42,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_bao_lam",
+        "province_code": 4,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n P\u00e1c Mi\u1ea7u",
+                "code": 1290,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_pac_miau",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ee9c H\u1ea1nh",
+                "code": 1291,
+                "division_type": "x\u00e3",
+                "codename": "xa_duc_hanh",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 L\u00fd B\u00f4n",
+                "code": 1294,
+                "division_type": "x\u00e3",
+                "codename": "xa_ly_bon",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 Nam Cao",
+                "code": 1296,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_cao",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 Nam Quang",
+                "code": 1297,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_quang",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 V\u0129nh Quang",
+                "code": 1300,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_quang",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 Qu\u1ea3ng L\u00e2m",
+                "code": 1303,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_lam",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 Th\u1ea1ch L\u00e2m",
+                "code": 1304,
+                "division_type": "x\u00e3",
+                "codename": "xa_thach_lam",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 V\u0129nh Phong",
+                "code": 1309,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_phong",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 M\u00f4ng \u00c2n",
+                "code": 1312,
+                "division_type": "x\u00e3",
+                "codename": "xa_mong_an",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 Th\u00e1i H\u1ecdc",
+                "code": 1315,
+                "division_type": "x\u00e3",
+                "codename": "xa_thai_hoc",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 Th\u00e1i S\u01a1n",
+                "code": 1316,
+                "division_type": "x\u00e3",
+                "codename": "xa_thai_son",
+                "district_code": 42
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Th\u1ed5",
+                "code": 1318,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_tho",
+                "district_code": 42
+            }
+        ]
+    },
+    "44": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "45": {
+        "name": "Huy\u1ec7n H\u00e0 Qu\u1ea3ng",
+        "code": 45,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_ha_quang",
+        "province_code": 4,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n Th\u00f4ng N\u00f4ng",
+                "code": 1363,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_thong_nong",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 C\u1ea7n Y\u00ean",
+                "code": 1366,
+                "division_type": "x\u00e3",
+                "codename": "xa_can_yen",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 C\u1ea7n N\u00f4ng",
+                "code": 1367,
+                "division_type": "x\u00e3",
+                "codename": "xa_can_nong",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 L\u01b0\u01a1ng Th\u00f4ng",
+                "code": 1372,
+                "division_type": "x\u00e3",
+                "codename": "xa_luong_thong",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 \u0110a Th\u00f4ng",
+                "code": 1375,
+                "division_type": "x\u00e3",
+                "codename": "xa_da_thong",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 Ng\u1ecdc \u0110\u1ed9ng",
+                "code": 1378,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngoc_dong",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 Y\u00ean S\u01a1n",
+                "code": 1381,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_son",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 L\u01b0\u01a1ng Can",
+                "code": 1384,
+                "division_type": "x\u00e3",
+                "codename": "xa_luong_can",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 Thanh Long",
+                "code": 1387,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_long",
+                "district_code": 45
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Xu\u00e2n H\u00f2a",
+                "code": 1392,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_xuan_hoa",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 L\u0169ng N\u1eb7m",
+                "code": 1393,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_nam",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 Tr\u01b0\u1eddng H\u00e0",
+                "code": 1399,
+                "division_type": "x\u00e3",
+                "codename": "xa_truong_ha",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 C\u1ea3i Vi\u00ean",
+                "code": 1402,
+                "division_type": "x\u00e3",
+                "codename": "xa_cai_vien",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 N\u1ed9i Th\u00f4n",
+                "code": 1411,
+                "division_type": "x\u00e3",
+                "codename": "xa_noi_thon",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 T\u1ed5ng C\u1ecdt",
+                "code": 1414,
+                "division_type": "x\u00e3",
+                "codename": "xa_tong_cot",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 S\u00f3c H\u00e0",
+                "code": 1417,
+                "division_type": "x\u00e3",
+                "codename": "xa_soc_ha",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng Th\u00f4n",
+                "code": 1420,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_thon",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 H\u1ed3ng S\u1ef9",
+                "code": 1429,
+                "division_type": "x\u00e3",
+                "codename": "xa_hong_sy",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 Qu\u00fd Qu\u00e2n",
+                "code": 1432,
+                "division_type": "x\u00e3",
+                "codename": "xa_quy_quan",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 M\u00e3 Ba",
+                "code": 1435,
+                "division_type": "x\u00e3",
+                "codename": "xa_ma_ba",
+                "district_code": 45
+            },
+            {
+                "name": "X\u00e3 Ng\u1ecdc \u0110\u00e0o",
+                "code": 1438,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngoc_dao",
+                "district_code": 45
+            }
+        ]
+    },
+    "46": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "48": {
+        "name": "Huy\u1ec7n H\u1ea1 Lang",
+        "code": 48,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_ha_lang",
+        "province_code": 4,
+        "wards": [
+            {
+                "name": "X\u00e3 Minh Long",
+                "code": 1534,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_long",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 L\u00fd Qu\u1ed1c",
+                "code": 1537,
+                "division_type": "x\u00e3",
+                "codename": "xa_ly_quoc",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 Th\u1eafng L\u1ee3i",
+                "code": 1540,
+                "division_type": "x\u00e3",
+                "codename": "xa_thang_loi",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed3ng Loan",
+                "code": 1543,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_loan",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ee9c Quang",
+                "code": 1546,
+                "division_type": "x\u00e3",
+                "codename": "xa_duc_quang",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 Kim Loan",
+                "code": 1549,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_loan",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 Quang Long",
+                "code": 1552,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_long",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 An L\u1ea1c",
+                "code": 1555,
+                "division_type": "x\u00e3",
+                "codename": "xa_an_lac",
+                "district_code": 48
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Thanh Nh\u1eadt",
+                "code": 1558,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_thanh_nhat",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 Vinh Qu\u00fd",
+                "code": 1561,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_quy",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 Th\u1ed1ng Nh\u1ea5t",
+                "code": 1564,
+                "division_type": "x\u00e3",
+                "codename": "xa_thong_nhat",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 C\u00f4 Ng\u00e2n",
+                "code": 1567,
+                "division_type": "x\u00e3",
+                "codename": "xa_co_ngan",
+                "district_code": 48
+            },
+            {
+                "name": "X\u00e3 Th\u1ecb Hoa",
+                "code": 1573,
+                "division_type": "x\u00e3",
+                "codename": "xa_thi_hoa",
+                "district_code": 48
+            }
+        ]
+    },
+    "49": {
+        "name": "Huy\u1ec7n Qu\u1ea3ng H\u00f2a",
+        "code": 49,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_quang_hoa",
+        "province_code": 4,
+        "wards": [
+            {
+                "name": "X\u00e3 Qu\u1ed1c To\u1ea3n",
+                "code": 1474,
+                "division_type": "x\u00e3",
+                "codename": "xa_quoc_toan",
+                "district_code": 49
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Qu\u1ea3ng Uy\u00ean",
+                "code": 1576,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_quang_uyen",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 Phi H\u1ea3i",
+                "code": 1579,
+                "division_type": "x\u00e3",
+                "codename": "xa_phi_hai",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 Qu\u1ea3ng H\u01b0ng",
+                "code": 1582,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_hung",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed9c L\u1eadp",
+                "code": 1594,
+                "division_type": "x\u00e3",
+                "codename": "xa_doc_lap",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 Cai B\u1ed9",
+                "code": 1597,
+                "division_type": "x\u00e3",
+                "codename": "xa_cai_bo",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 Ph\u00fac Sen",
+                "code": 1603,
+                "division_type": "x\u00e3",
+                "codename": "xa_phuc_sen",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 Ch\u00ed Th\u1ea3o",
+                "code": 1606,
+                "division_type": "x\u00e3",
+                "codename": "xa_chi_thao",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 T\u1ef1 Do",
+                "code": 1609,
+                "division_type": "x\u00e3",
+                "codename": "xa_tu_do",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 H\u1ed3ng Quang",
+                "code": 1615,
+                "division_type": "x\u00e3",
+                "codename": "xa_hong_quang",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 Ng\u1ecdc \u0110\u1ed9ng",
+                "code": 1618,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngoc_dong",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 H\u1ea1nh Ph\u00fac",
+                "code": 1624,
+                "division_type": "x\u00e3",
+                "codename": "xa_hanh_phuc",
+                "district_code": 49
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n T\u00e0 L\u00f9ng",
+                "code": 1627,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_ta_lung",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 B\u1ebf V\u0103n \u0110\u00e0n",
+                "code": 1630,
+                "division_type": "x\u00e3",
+                "codename": "xa_be_van_dan",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 C\u00e1ch Linh",
+                "code": 1636,
+                "division_type": "x\u00e3",
+                "codename": "xa_cach_linh",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ea1i S\u01a1n",
+                "code": 1639,
+                "division_type": "x\u00e3",
+                "codename": "xa_dai_son",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 Ti\u00ean Th\u00e0nh",
+                "code": 1645,
+                "division_type": "x\u00e3",
+                "codename": "xa_tien_thanh",
+                "district_code": 49
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Ho\u00e0 Thu\u1eadn",
+                "code": 1648,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_hoa_thuan",
+                "district_code": 49
+            },
+            {
+                "name": "X\u00e3 M\u1ef9 H\u01b0ng",
+                "code": 1651,
+                "division_type": "x\u00e3",
+                "codename": "xa_my_hung",
+                "district_code": 49
+            }
+        ]
+    },
+    "51": {
+        "name": "Huy\u1ec7n Ho\u00e0 An",
+        "code": 51,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_hoa_an",
+        "province_code": 4,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n N\u01b0\u1edbc Hai",
+                "code": 1654,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_nuoc_hai",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 D\u00e2n Ch\u1ee7",
+                "code": 1657,
+                "division_type": "x\u00e3",
+                "codename": "xa_dan_chu",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 Nam Tu\u1ea5n",
+                "code": 1660,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_tuan",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ea1i Ti\u1ebfn",
+                "code": 1666,
+                "division_type": "x\u00e3",
+                "codename": "xa_dai_tien",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ee9c Long",
+                "code": 1669,
+                "division_type": "x\u00e3",
+                "codename": "xa_duc_long",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 Ng\u0169 L\u00e3o",
+                "code": 1672,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngu_lao",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 Tr\u01b0\u01a1ng L\u01b0\u01a1ng",
+                "code": 1675,
+                "division_type": "x\u00e3",
+                "codename": "xa_truong_luong",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 H\u1ed3ng Vi\u1ec7t",
+                "code": 1687,
+                "division_type": "x\u00e3",
+                "codename": "xa_hong_viet",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 Ho\u00e0ng Tung",
+                "code": 1696,
+                "division_type": "x\u00e3",
+                "codename": "xa_hoang_tung",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 Nguy\u1ec5n Hu\u1ec7",
+                "code": 1699,
+                "division_type": "x\u00e3",
+                "codename": "xa_nguyen_hue",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 Quang Trung",
+                "code": 1702,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_trung",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 B\u1ea1ch \u0110\u1eb1ng",
+                "code": 1708,
+                "division_type": "x\u00e3",
+                "codename": "xa_bach_dang",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 B\u00ecnh D\u01b0\u01a1ng",
+                "code": 1711,
+                "division_type": "x\u00e3",
+                "codename": "xa_binh_duong",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 L\u00ea Chung",
+                "code": 1714,
+                "division_type": "x\u00e3",
+                "codename": "xa_le_chung",
+                "district_code": 51
+            },
+            {
+                "name": "X\u00e3 H\u1ed3ng Nam",
+                "code": 1723,
+                "division_type": "x\u00e3",
+                "codename": "xa_hong_nam",
+                "district_code": 51
+            }
+        ]
+    },
+    "52": {
+        "name": "Huy\u1ec7n Nguy\u00ean B\u00ecnh",
+        "code": 52,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_nguyen_binh",
+        "province_code": 4,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n Nguy\u00ean B\u00ecnh",
+                "code": 1726,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_nguyen_binh",
+                "district_code": 52
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n T\u0129nh T\u00fac",
+                "code": 1729,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_tinh_tuc",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Y\u00ean L\u1ea1c",
+                "code": 1732,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_lac",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Tri\u1ec7u Nguy\u00ean",
+                "code": 1735,
+                "division_type": "x\u00e3",
+                "codename": "xa_trieu_nguyen",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Ca Th\u00e0nh",
+                "code": 1738,
+                "division_type": "x\u00e3",
+                "codename": "xa_ca_thanh",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 V\u0169 N\u00f4ng",
+                "code": 1744,
+                "division_type": "x\u00e3",
+                "codename": "xa_vu_nong",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Minh T\u00e2m",
+                "code": 1747,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_tam",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Th\u1ec3 D\u1ee5c",
+                "code": 1750,
+                "division_type": "x\u00e3",
+                "codename": "xa_the_duc",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Mai Long",
+                "code": 1756,
+                "division_type": "x\u00e3",
+                "codename": "xa_mai_long",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 V\u0169 Minh",
+                "code": 1762,
+                "division_type": "x\u00e3",
+                "codename": "xa_vu_minh",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Hoa Th\u00e1m",
+                "code": 1765,
+                "division_type": "x\u00e3",
+                "codename": "xa_hoa_tham",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Phan Thanh",
+                "code": 1768,
+                "division_type": "x\u00e3",
+                "codename": "xa_phan_thanh",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Quang Th\u00e0nh",
+                "code": 1771,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_thanh",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Tam Kim",
+                "code": 1774,
+                "division_type": "x\u00e3",
+                "codename": "xa_tam_kim",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Th\u00e0nh C\u00f4ng",
+                "code": 1777,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_cong",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 Th\u1ecbnh V\u01b0\u1ee3ng",
+                "code": 1780,
+                "division_type": "x\u00e3",
+                "codename": "xa_thinh_vuong",
+                "district_code": 52
+            },
+            {
+                "name": "X\u00e3 H\u01b0ng \u0110\u1ea1o",
+                "code": 1783,
+                "division_type": "x\u00e3",
+                "codename": "xa_hung_dao",
+                "district_code": 52
+            }
+        ]
+    },
+    "54": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "56": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "58": {
+        "name": "Th\u00e0nh Ph\u1ed1 B\u1eafc K\u1ea1n",
+        "code": 58,
+        "division_type": "th\u00e0nh ph\u1ed1",
+        "codename": "thanh_pho_bac_kan",
+        "province_code": 6,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Nguy\u1ec5n Th\u1ecb Minh Khai",
+                "code": 1834,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_nguyen_thi_minh_khai",
+                "district_code": 58
+            },
+            {
+                "name": "Ph\u01b0\u1eddng S\u00f4ng C\u1ea7u",
+                "code": 1837,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_song_cau",
+                "district_code": 58
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ee9c Xu\u00e2n",
+                "code": 1840,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_duc_xuan",
+                "district_code": 58
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Ph\u00f9ng Ch\u00ed Ki\u00ean",
+                "code": 1843,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phung_chi_kien",
+                "district_code": 58
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Huy\u1ec1n T\u1ee5ng",
+                "code": 1846,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_huyen_tung",
+                "district_code": 58
+            },
+            {
+                "name": "X\u00e3 D\u01b0\u01a1ng Quang",
+                "code": 1849,
+                "division_type": "x\u00e3",
+                "codename": "xa_duong_quang",
+                "district_code": 58
+            },
+            {
+                "name": "X\u00e3 N\u00f4ng Th\u01b0\u1ee3ng",
+                "code": 1852,
+                "division_type": "x\u00e3",
+                "codename": "xa_nong_thuong",
+                "district_code": 58
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Xu\u1ea5t H\u00f3a",
+                "code": 1855,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_xuat_hoa",
+                "district_code": 58
+            }
+        ]
+    },
+    "60": {
+        "name": "Huy\u1ec7n P\u00e1c N\u1eb7m",
+        "code": 60,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_pac_nam",
+        "province_code": 6,
+        "wards": [
+            {
+                "name": "X\u00e3 B\u1eb1ng Th\u00e0nh",
+                "code": 1858,
+                "division_type": "x\u00e3",
+                "codename": "xa_bang_thanh",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 Nh\u1ea1n M\u00f4n",
+                "code": 1861,
+                "division_type": "x\u00e3",
+                "codename": "xa_nhan_mon",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 B\u1ed9c B\u1ed1",
+                "code": 1864,
+                "division_type": "x\u00e3",
+                "codename": "xa_boc_bo",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 C\u00f4ng B\u1eb1ng",
+                "code": 1867,
+                "division_type": "x\u00e3",
+                "codename": "xa_cong_bang",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 Gi\u00e1o Hi\u1ec7u",
+                "code": 1870,
+                "division_type": "x\u00e3",
+                "codename": "xa_giao_hieu",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n La",
+                "code": 1873,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_la",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 An Th\u1eafng",
+                "code": 1876,
+                "division_type": "x\u00e3",
+                "codename": "xa_an_thang",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 C\u1ed5 Linh",
+                "code": 1879,
+                "division_type": "x\u00e3",
+                "codename": "xa_co_linh",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 Nghi\u00ean Loan",
+                "code": 1882,
+                "division_type": "x\u00e3",
+                "codename": "xa_nghien_loan",
+                "district_code": 60
+            },
+            {
+                "name": "X\u00e3 Cao T\u00e2n",
+                "code": 1885,
+                "division_type": "x\u00e3",
+                "codename": "xa_cao_tan",
+                "district_code": 60
+            }
+        ]
+    },
+    "62": {
+        "name": "Huy\u1ec7n Ng\u00e2n S\u01a1n",
+        "code": 62,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_ngan_son",
+        "province_code": 6,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n N\u00e0 Ph\u1eb7c",
+                "code": 1936,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_na_phac",
+                "district_code": 62
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng \u00c2n",
+                "code": 1939,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_an",
+                "district_code": 62
+            },
+            {
+                "name": "X\u00e3 B\u1eb1ng V\u00e2n",
+                "code": 1942,
+                "division_type": "x\u00e3",
+                "codename": "xa_bang_van",
+                "district_code": 62
+            },
+            {
+                "name": "X\u00e3 C\u1ed1c \u0110\u00e1n",
+                "code": 1945,
+                "division_type": "x\u00e3",
+                "codename": "xa_coc_dan",
+                "district_code": 62
+            },
+            {
+                "name": "X\u00e3 Trung Ho\u00e0",
+                "code": 1948,
+                "division_type": "x\u00e3",
+                "codename": "xa_trung_hoa",
+                "district_code": 62
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ee9c V\u00e2n",
+                "code": 1951,
+                "division_type": "x\u00e3",
+                "codename": "xa_duc_van",
+                "district_code": 62
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n V\u00e2n T\u00f9ng",
+                "code": 1954,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_van_tung",
+                "district_code": 62
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng Quan",
+                "code": 1957,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_quan",
+                "district_code": 62
+            },
+            {
+                "name": "X\u00e3 Hi\u1ec7p L\u1ef1c",
+                "code": 1960,
+                "division_type": "x\u00e3",
+                "codename": "xa_hiep_luc",
+                "district_code": 62
+            },
+            {
+                "name": "X\u00e3 Thu\u1ea7n Mang",
+                "code": 1963,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuan_mang",
+                "district_code": 62
+            }
+        ]
+    },
+    "64": {
+        "name": "Huy\u1ec7n Ch\u1ee3 \u0110\u1ed3n",
+        "code": 64,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_cho_don",
+        "province_code": 6,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n B\u1eb1ng L\u0169ng",
+                "code": 2020,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_bang_lung",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n L\u1ea1c",
+                "code": 2023,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_lac",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Nam C\u01b0\u1eddng",
+                "code": 2026,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_cuong",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed3ng L\u1ea1c",
+                "code": 2029,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_lac",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 T\u00e2n L\u1eadp",
+                "code": 2032,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_lap",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n Thi",
+                "code": 2035,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_thi",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Qu\u1ea3ng B\u1ea1ch",
+                "code": 2038,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_bach",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 B\u1eb1ng Ph\u00fac",
+                "code": 2041,
+                "division_type": "x\u00e3",
+                "codename": "xa_bang_phuc",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Th\u1ecbnh",
+                "code": 2044,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_thinh",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Th\u01b0\u1ee3ng",
+                "code": 2047,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_thuong",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Ph\u01b0\u01a1ng Vi\u00ean",
+                "code": 2050,
+                "division_type": "x\u00e3",
+                "codename": "xa_phuong_vien",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Ng\u1ecdc Ph\u00e1i",
+                "code": 2053,
+                "division_type": "x\u00e3",
+                "codename": "xa_ngoc_phai",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed3ng Th\u1eafng",
+                "code": 2059,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_thang",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 L\u01b0\u01a1ng B\u1eb1ng",
+                "code": 2062,
+                "division_type": "x\u00e3",
+                "codename": "xa_luong_bang",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 B\u1eb1ng L\u00e3ng",
+                "code": 2065,
+                "division_type": "x\u00e3",
+                "codename": "xa_bang_lang",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ea1i S\u1ea3o",
+                "code": 2068,
+                "division_type": "x\u00e3",
+                "codename": "xa_dai_sao",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Ngh\u0129a T\u00e1",
+                "code": 2071,
+                "division_type": "x\u00e3",
+                "codename": "xa_nghia_ta",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Y\u00ean M\u1ef9",
+                "code": 2077,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_my",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 B\u00ecnh Trung",
+                "code": 2080,
+                "division_type": "x\u00e3",
+                "codename": "xa_binh_trung",
+                "district_code": 64
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Phong",
+                "code": 2083,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_phong",
+                "district_code": 64
+            }
+        ]
+    },
+    "66": {
+        "name": "Huy\u1ec7n Na R\u00ec",
+        "code": 66,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_na_ri",
+        "province_code": 6,
+        "wards": [
+            {
+                "name": "X\u00e3 V\u0103n V\u0169",
+                "code": 2137,
+                "division_type": "x\u00e3",
+                "codename": "xa_van_vu",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 V\u0103n Lang",
+                "code": 2140,
+                "division_type": "x\u00e3",
+                "codename": "xa_van_lang",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 L\u01b0\u01a1ng Th\u01b0\u1ee3ng",
+                "code": 2143,
+                "division_type": "x\u00e3",
+                "codename": "xa_luong_thuong",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 Kim H\u1ef7",
+                "code": 2146,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_hy",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 C\u01b0\u1eddng L\u1ee3i",
+                "code": 2152,
+                "division_type": "x\u00e3",
+                "codename": "xa_cuong_loi",
+                "district_code": 66
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Y\u1ebfn L\u1ea1c",
+                "code": 2155,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_yen_lac",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 Kim L\u01b0",
+                "code": 2158,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_lu",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 S\u01a1n Th\u00e0nh",
+                "code": 2161,
+                "division_type": "x\u00e3",
+                "codename": "xa_son_thanh",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 V\u0103n Minh",
+                "code": 2170,
+                "division_type": "x\u00e3",
+                "codename": "xa_van_minh",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 C\u00f4n Minh",
+                "code": 2173,
+                "division_type": "x\u00e3",
+                "codename": "xa_con_minh",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 C\u01b0 L\u1ec5",
+                "code": 2176,
+                "division_type": "x\u00e3",
+                "codename": "xa_cu_le",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 Tr\u1ea7n Ph\u00fa",
+                "code": 2179,
+                "division_type": "x\u00e3",
+                "codename": "xa_tran_phu",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 Quang Phong",
+                "code": 2185,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_phong",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 D\u01b0\u01a1ng S\u01a1n",
+                "code": 2188,
+                "division_type": "x\u00e3",
+                "codename": "xa_duong_son",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n D\u01b0\u01a1ng",
+                "code": 2191,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_duong",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed5ng X\u00e1",
+                "code": 2194,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_xa",
+                "district_code": 66
+            },
+            {
+                "name": "X\u00e3 Li\u00eam Thu\u1ef7",
+                "code": 2197,
+                "division_type": "x\u00e3",
+                "codename": "xa_liem_thuy",
+                "district_code": 66
+            }
+        ]
+    },
+    "67": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "68": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "70": {
+        "name": "Th\u00e0nh ph\u1ed1 Tuy\u00ean Quang",
+        "code": 70,
+        "division_type": "th\u00e0nh ph\u1ed1",
+        "codename": "thanh_pho_tuyen_quang",
+        "province_code": 8,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Phan Thi\u1ebft",
+                "code": 2200,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_phan_thiet",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Minh Xu\u00e2n",
+                "code": 2203,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_minh_xuan",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng T\u00e2n Quang",
+                "code": 2206,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tan_quang",
+                "district_code": 70
+            },
+            {
+                "name": "X\u00e3 Tr\u00e0ng \u0110\u00e0",
+                "code": 2209,
+                "division_type": "x\u00e3",
+                "codename": "xa_trang_da",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng N\u00f4ng Ti\u1ebfn",
+                "code": 2212,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_nong_tien",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u1ef6 La",
+                "code": 2215,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_y_la",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng T\u00e2n H\u00e0",
+                "code": 2216,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tan_ha",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng H\u01b0ng Th\u00e0nh",
+                "code": 2218,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_hung_thanh",
+                "district_code": 70
+            },
+            {
+                "name": "X\u00e3 Kim Ph\u00fa",
+                "code": 2497,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_phu",
+                "district_code": 70
+            },
+            {
+                "name": "X\u00e3 An Khang",
+                "code": 2503,
+                "division_type": "x\u00e3",
+                "codename": "xa_an_khang",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng M\u1ef9 L\u00e2m",
+                "code": 2509,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_my_lam",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng An T\u01b0\u1eddng",
+                "code": 2512,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_an_tuong",
+                "district_code": 70
+            },
+            {
+                "name": "X\u00e3 L\u01b0\u1ee1ng V\u01b0\u1ee3ng",
+                "code": 2515,
+                "division_type": "x\u00e3",
+                "codename": "xa_luong_vuong",
+                "district_code": 70
+            },
+            {
+                "name": "X\u00e3 Th\u00e1i Long",
+                "code": 2521,
+                "division_type": "x\u00e3",
+                "codename": "xa_thai_long",
+                "district_code": 70
+            },
+            {
+                "name": "Ph\u01b0\u1eddng \u0110\u1ed9i C\u1ea5n",
+                "code": 2524,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_doi_can",
+                "district_code": 70
+            }
+        ]
+    },
+    "72": {
+        "name": "Huy\u1ec7n Na Hang",
+        "code": 72,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_na_hang",
+        "province_code": 8,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n Na Hang",
+                "code": 2221,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_na_hang",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 Sinh Long",
+                "code": 2227,
+                "division_type": "x\u00e3",
+                "codename": "xa_sinh_long",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng Gi\u00e1p",
+                "code": 2230,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_giap",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng N\u00f4ng",
+                "code": 2239,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_nong",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 C\u00f4n L\u00f4n",
+                "code": 2245,
+                "division_type": "x\u00e3",
+                "codename": "xa_con_lon",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Hoa",
+                "code": 2248,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_hoa",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 H\u1ed3ng Th\u00e1i",
+                "code": 2254,
+                "division_type": "x\u00e3",
+                "codename": "xa_hong_thai",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 \u0110\u00e0 V\u1ecb",
+                "code": 2260,
+                "division_type": "x\u00e3",
+                "codename": "xa_da_vi",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 Khau Tinh",
+                "code": 2263,
+                "division_type": "x\u00e3",
+                "codename": "xa_khau_tinh",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 S\u01a1n Ph\u00fa",
+                "code": 2275,
+                "division_type": "x\u00e3",
+                "codename": "xa_son_phu",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 N\u0103ng Kh\u1ea3",
+                "code": 2281,
+                "division_type": "x\u00e3",
+                "codename": "xa_nang_kha",
+                "district_code": 72
+            },
+            {
+                "name": "X\u00e3 Thanh T\u01b0\u01a1ng",
+                "code": 2284,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_tuong",
+                "district_code": 72
+            }
+        ]
+    },
+    "74": {
+        "name": "Huy\u1ec7n H\u00e0m Y\u00ean",
+        "code": 74,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_ham_yen",
+        "province_code": 8,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n T\u00e2n Y\u00ean",
+                "code": 2374,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_tan_yen",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Thu\u1eadn",
+                "code": 2377,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_thuan",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 B\u1ea1ch Xa",
+                "code": 2380,
+                "division_type": "x\u00e3",
+                "codename": "xa_bach_xa",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Minh Kh\u01b0\u01a1ng",
+                "code": 2383,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_khuong",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Y\u00ean L\u00e2m",
+                "code": 2386,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_lam",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Minh D\u00e2n",
+                "code": 2389,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_dan",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Ph\u00f9 L\u01b0u",
+                "code": 2392,
+                "division_type": "x\u00e3",
+                "codename": "xa_phu_luu",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Minh H\u01b0\u01a1ng",
+                "code": 2395,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_huong",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Y\u00ean Ph\u00fa",
+                "code": 2398,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_phu",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Th\u00e0nh",
+                "code": 2401,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_thanh",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 B\u00ecnh Xa",
+                "code": 2404,
+                "division_type": "x\u00e3",
+                "codename": "xa_binh_xa",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Th\u00e1i S\u01a1n",
+                "code": 2407,
+                "division_type": "x\u00e3",
+                "codename": "xa_thai_son",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Nh\u00e2n M\u1ee5c",
+                "code": 2410,
+                "division_type": "x\u00e3",
+                "codename": "xa_nhan_muc",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Th\u00e0nh Long",
+                "code": 2413,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_long",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 B\u1eb1ng C\u1ed1c",
+                "code": 2416,
+                "division_type": "x\u00e3",
+                "codename": "xa_bang_coc",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 Th\u00e1i H\u00f2a",
+                "code": 2419,
+                "division_type": "x\u00e3",
+                "codename": "xa_thai_hoa",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ee9c Ninh",
+                "code": 2422,
+                "division_type": "x\u00e3",
+                "codename": "xa_duc_ninh",
+                "district_code": 74
+            },
+            {
+                "name": "X\u00e3 H\u00f9ng \u0110\u1ee9c",
+                "code": 2425,
+                "division_type": "x\u00e3",
+                "codename": "xa_hung_duc",
+                "district_code": 74
+            }
+        ]
+    },
+    "75": {
+        "name": "Huy\u1ec7n Y\u00ean S\u01a1n",
+        "code": 75,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_yen_son",
+        "province_code": 8,
+        "wards": [
+            {
+                "name": "X\u00e3 Qu\u00ed Qu\u00e2n",
+                "code": 2431,
+                "division_type": "x\u00e3",
+                "codename": "xa_qui_quan",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 L\u1ef1c H\u00e0nh",
+                "code": 2434,
+                "division_type": "x\u00e3",
+                "codename": "xa_luc_hanh",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Ki\u1ebfn Thi\u1ebft",
+                "code": 2437,
+                "division_type": "x\u00e3",
+                "codename": "xa_kien_thiet",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Trung Minh",
+                "code": 2440,
+                "division_type": "x\u00e3",
+                "codename": "xa_trung_minh",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Chi\u00eau Y\u00ean",
+                "code": 2443,
+                "division_type": "x\u00e3",
+                "codename": "xa_chieu_yen",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Trung Tr\u1ef1c",
+                "code": 2446,
+                "division_type": "x\u00e3",
+                "codename": "xa_trung_truc",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n V\u00e2n",
+                "code": 2449,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_van",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Ph\u00fac Ninh",
+                "code": 2452,
+                "division_type": "x\u00e3",
+                "codename": "xa_phuc_ninh",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 H\u00f9ng L\u1ee3i",
+                "code": 2455,
+                "division_type": "x\u00e3",
+                "codename": "xa_hung_loi",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Trung S\u01a1n",
+                "code": 2458,
+                "division_type": "x\u00e3",
+                "codename": "xa_trung_son",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Ti\u1ebfn",
+                "code": 2461,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_tien",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 T\u1ee9 Qu\u1eadn",
+                "code": 2464,
+                "division_type": "x\u00e3",
+                "codename": "xa_tu_quan",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ea1o Vi\u1ec7n",
+                "code": 2467,
+                "division_type": "x\u00e3",
+                "codename": "xa_dao_vien",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Long",
+                "code": 2470,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_long",
+                "district_code": 75
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Y\u00ean S\u01a1n",
+                "code": 2473,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_yen_son",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Kim Quan",
+                "code": 2476,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_quan",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Lang Qu\u00e1n",
+                "code": 2479,
+                "division_type": "x\u00e3",
+                "codename": "xa_lang_quan",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Ph\u00fa Th\u1ecbnh",
+                "code": 2482,
+                "division_type": "x\u00e3",
+                "codename": "xa_phu_thinh",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 C\u00f4ng \u0110a",
+                "code": 2485,
+                "division_type": "x\u00e3",
+                "codename": "xa_cong_da",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Trung M\u00f4n",
+                "code": 2488,
+                "division_type": "x\u00e3",
+                "codename": "xa_trung_mon",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Ch\u00e2n S\u01a1n",
+                "code": 2491,
+                "division_type": "x\u00e3",
+                "codename": "xa_chan_son",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Th\u00e1i B\u00ecnh",
+                "code": 2494,
+                "division_type": "x\u00e3",
+                "codename": "xa_thai_binh",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Ti\u1ebfn B\u1ed9",
+                "code": 2500,
+                "division_type": "x\u00e3",
+                "codename": "xa_tien_bo",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 M\u1ef9 B\u1eb1ng",
+                "code": 2506,
+                "division_type": "x\u00e3",
+                "codename": "xa_my_bang",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Ho\u00e0ng Khai",
+                "code": 2518,
+                "division_type": "x\u00e3",
+                "codename": "xa_hoang_khai",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Nh\u1eef H\u00e1n",
+                "code": 2527,
+                "division_type": "x\u00e3",
+                "codename": "xa_nhu_han",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 Nh\u1eef Kh\u00ea",
+                "code": 2530,
+                "division_type": "x\u00e3",
+                "codename": "xa_nhu_khe",
+                "district_code": 75
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed9i B\u00ecnh",
+                "code": 2533,
+                "division_type": "x\u00e3",
+                "codename": "xa_doi_binh",
+                "district_code": 75
+            }
+        ]
+    },
+    "77": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "79": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "80": {
+        "name": "Th\u00e0nh ph\u1ed1 L\u00e0o Cai",
+        "code": 80,
+        "division_type": "th\u00e0nh ph\u1ed1",
+        "codename": "thanh_pho_lao_cai",
+        "province_code": 10,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Duy\u00ean H\u1ea3i",
+                "code": 2635,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_duyen_hai",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng L\u00e0o Cai",
+                "code": 2641,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_lao_cai",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng C\u1ed1c L\u1ebfu",
+                "code": 2644,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_coc_leu",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Kim T\u00e2n",
+                "code": 2647,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_kim_tan",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng B\u1eafc L\u1ec7nh",
+                "code": 2650,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_bac_lenh",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Pom H\u00e1n",
+                "code": 2653,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_pom_han",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Xu\u00e2n T\u0103ng",
+                "code": 2656,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_xuan_tang",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng B\u00ecnh Minh",
+                "code": 2658,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_binh_minh",
+                "district_code": 80
+            },
+            {
+                "name": "X\u00e3 Th\u1ed1ng Nh\u1ea5t",
+                "code": 2659,
+                "division_type": "x\u00e3",
+                "codename": "xa_thong_nhat",
+                "district_code": 80
+            },
+            {
+                "name": "X\u00e3 \u0110\u1ed3ng Tuy\u1ec3n",
+                "code": 2662,
+                "division_type": "x\u00e3",
+                "codename": "xa_dong_tuyen",
+                "district_code": 80
+            },
+            {
+                "name": "X\u00e3 V\u1ea1n Ho\u00e0",
+                "code": 2665,
+                "division_type": "x\u00e3",
+                "codename": "xa_van_hoa",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng B\u1eafc C\u01b0\u1eddng",
+                "code": 2668,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_bac_cuong",
+                "district_code": 80
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Nam C\u01b0\u1eddng",
+                "code": 2671,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_nam_cuong",
+                "district_code": 80
+            },
+            {
+                "name": "X\u00e3 Cam \u0110\u01b0\u1eddng",
+                "code": 2674,
+                "division_type": "x\u00e3",
+                "codename": "xa_cam_duong",
+                "district_code": 80
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 Ph\u1eddi",
+                "code": 2677,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_phoi",
+                "district_code": 80
+            },
+            {
+                "name": "X\u00e3 H\u1ee3p Th\u00e0nh",
+                "code": 2680,
+                "division_type": "x\u00e3",
+                "codename": "xa_hop_thanh",
+                "district_code": 80
+            },
+            {
+                "name": "X\u00e3 C\u1ed1c San",
+                "code": 2746,
+                "division_type": "x\u00e3",
+                "codename": "xa_coc_san",
+                "district_code": 80
+            }
+        ]
+    },
+    "82": {
+        "name": "Huy\u1ec7n B\u00e1t X\u00e1t",
+        "code": 82,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_bat_xat",
+        "province_code": 10,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n B\u00e1t X\u00e1t",
+                "code": 2683,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_bat_xat",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 A M\u00fa Sung",
+                "code": 2686,
+                "division_type": "x\u00e3",
+                "codename": "xa_a_mu_sung",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 N\u1eadm Ch\u1ea1c",
+                "code": 2689,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_chac",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 A L\u00f9",
+                "code": 2692,
+                "division_type": "x\u00e3",
+                "codename": "xa_a_lu",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 Tr\u1ecbnh T\u01b0\u1eddng",
+                "code": 2695,
+                "division_type": "x\u00e3",
+                "codename": "xa_trinh_tuong",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 Y T\u00fd",
+                "code": 2701,
+                "division_type": "x\u00e3",
+                "codename": "xa_y_ty",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 C\u1ed1c M\u1ef3",
+                "code": 2704,
+                "division_type": "x\u00e3",
+                "codename": "xa_coc_my",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 D\u1ec1n S\u00e1ng",
+                "code": 2707,
+                "division_type": "x\u00e3",
+                "codename": "xa_den_sang",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n V\u01b0\u1ee3c",
+                "code": 2710,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_vuoc",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 S\u00e0ng Ma S\u00e1o",
+                "code": 2713,
+                "division_type": "x\u00e3",
+                "codename": "xa_sang_ma_sao",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n Qua",
+                "code": 2716,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_qua",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 M\u01b0\u1eddng Vi",
+                "code": 2719,
+                "division_type": "x\u00e3",
+                "codename": "xa_muong_vi",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 D\u1ec1n Th\u00e0ng",
+                "code": 2722,
+                "division_type": "x\u00e3",
+                "codename": "xa_den_thang",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n X\u00e8o",
+                "code": 2725,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_xeo",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 M\u01b0\u1eddng Hum",
+                "code": 2728,
+                "division_type": "x\u00e3",
+                "codename": "xa_muong_hum",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 Trung L\u00e8ng H\u1ed3",
+                "code": 2731,
+                "division_type": "x\u00e3",
+                "codename": "xa_trung_leng_ho",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 Quang Kim",
+                "code": 2734,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_kim",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 Pa Cheo",
+                "code": 2737,
+                "division_type": "x\u00e3",
+                "codename": "xa_pa_cheo",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 N\u1eadm Pung",
+                "code": 2740,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_pung",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 Ph\u00ecn Ngan",
+                "code": 2743,
+                "division_type": "x\u00e3",
+                "codename": "xa_phin_ngan",
+                "district_code": 82
+            },
+            {
+                "name": "X\u00e3 T\u00f2ng S\u00e0nh",
+                "code": 2749,
+                "division_type": "x\u00e3",
+                "codename": "xa_tong_sanh",
+                "district_code": 82
+            }
+        ]
+    },
+    "83": {
+        "name": "Huy\u1ec7n M\u01b0\u1eddng Kh\u01b0\u01a1ng",
+        "code": 83,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_muong_khuong",
+        "province_code": 10,
+        "wards": [
+            {
+                "name": "X\u00e3 Pha Long",
+                "code": 2752,
+                "division_type": "x\u00e3",
+                "codename": "xa_pha_long",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 Ng\u1ea3i Ch\u1ed3",
+                "code": 2755,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_ngai_cho",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 Tung Chung Ph\u1ed1",
+                "code": 2758,
+                "division_type": "x\u00e3",
+                "codename": "xa_tung_chung_pho",
+                "district_code": 83
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n M\u01b0\u1eddng Kh\u01b0\u01a1ng",
+                "code": 2761,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_muong_khuong",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 D\u00ecn Chin",
+                "code": 2764,
+                "division_type": "x\u00e3",
+                "codename": "xa_din_chin",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 Gia Kh\u00e2u",
+                "code": 2767,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_gia_khau",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 N\u1eadm Ch\u1ea3y",
+                "code": 2770,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_chay",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 N\u1ea5m L\u01b0",
+                "code": 2773,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_lu",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 L\u00f9ng Kh\u1ea5u Nhin",
+                "code": 2776,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_khau_nhin",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 Thanh B\u00ecnh",
+                "code": 2779,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_binh",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 Cao S\u01a1n",
+                "code": 2782,
+                "division_type": "x\u00e3",
+                "codename": "xa_cao_son",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 L\u00f9ng Vai",
+                "code": 2785,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_vai",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n L\u1ea7u",
+                "code": 2788,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_lau",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 La Pan T\u1ea9n",
+                "code": 2791,
+                "division_type": "x\u00e3",
+                "codename": "xa_la_pan_tan",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 T\u1ea3 Th\u00e0ng",
+                "code": 2794,
+                "division_type": "x\u00e3",
+                "codename": "xa_ta_thang",
+                "district_code": 83
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n Sen",
+                "code": 2797,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_sen",
+                "district_code": 83
+            }
+        ]
+    },
+    "84": {
+        "name": "Huy\u1ec7n Si Ma Cai",
+        "code": 84,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_si_ma_cai",
+        "province_code": 10,
+        "wards": [
+            {
+                "name": "X\u00e3 N\u00e0n S\u00e1n",
+                "code": 2800,
+                "division_type": "x\u00e3",
+                "codename": "xa_nan_san",
+                "district_code": 84
+            },
+            {
+                "name": "X\u00e3 Th\u00e0o Ch\u01b0 Ph\u00ecn",
+                "code": 2803,
+                "division_type": "x\u00e3",
+                "codename": "xa_thao_chu_phin",
+                "district_code": 84
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n M\u1ebf",
+                "code": 2806,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_me",
+                "district_code": 84
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Si Ma Cai",
+                "code": 2809,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_si_ma_cai",
+                "district_code": 84
+            },
+            {
+                "name": "X\u00e3 S\u00e1n Ch\u1ea3i",
+                "code": 2812,
+                "division_type": "x\u00e3",
+                "codename": "xa_san_chai",
+                "district_code": 84
+            },
+            {
+                "name": "X\u00e3 L\u00f9ng Th\u1ea9n",
+                "code": 2818,
+                "division_type": "x\u00e3",
+                "codename": "xa_lung_than",
+                "district_code": 84
+            },
+            {
+                "name": "X\u00e3 C\u00e1n C\u1ea5u",
+                "code": 2821,
+                "division_type": "x\u00e3",
+                "codename": "xa_can_cau",
+                "district_code": 84
+            },
+            {
+                "name": "X\u00e3 S\u00edn Ch\u00e9ng",
+                "code": 2824,
+                "division_type": "x\u00e3",
+                "codename": "xa_sin_cheng",
+                "district_code": 84
+            },
+            {
+                "name": "X\u00e3 Quan H\u1ed3 Th\u1ea9n",
+                "code": 2827,
+                "division_type": "x\u00e3",
+                "codename": "xa_quan_ho_than",
+                "district_code": 84
+            },
+            {
+                "name": "X\u00e3 N\u00e0n X\u00edn",
+                "code": 2836,
+                "division_type": "x\u00e3",
+                "codename": "xa_nan_xin",
+                "district_code": 84
+            }
+        ]
+    },
+    "86": {
+        "name": "Huy\u1ec7n B\u1ea3o Th\u1eafng",
+        "code": 86,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_bao_thang",
+        "province_code": 10,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n N.T Phong H\u1ea3i",
+                "code": 2902,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_n_t_phong_hai",
+                "district_code": 86
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n Ph\u1ed1 Lu",
+                "code": 2905,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_pho_lu",
+                "district_code": 86
+            },
+            {
+                "name": "Th\u1ecb tr\u1ea5n T\u1eb1ng Lo\u1ecfng",
+                "code": 2908,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_tang_loong",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n Phi\u1ec7t",
+                "code": 2911,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_phiet",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 B\u1ea3n C\u1ea7m",
+                "code": 2914,
+                "division_type": "x\u00e3",
+                "codename": "xa_ban_cam",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 Th\u00e1i Ni\u00ean",
+                "code": 2917,
+                "division_type": "x\u00e3",
+                "codename": "xa_thai_nien",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 Phong Ni\u00ean",
+                "code": 2920,
+                "division_type": "x\u00e3",
+                "codename": "xa_phong_nien",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 Gia Ph\u00fa",
+                "code": 2923,
+                "division_type": "x\u00e3",
+                "codename": "xa_gia_phu",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n Quang",
+                "code": 2926,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_quang",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 S\u01a1n H\u1ea3i",
+                "code": 2929,
+                "division_type": "x\u00e3",
+                "codename": "xa_son_hai",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n Giao",
+                "code": 2932,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_giao",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 Tr\u00ec Quang",
+                "code": 2935,
+                "division_type": "x\u00e3",
+                "codename": "xa_tri_quang",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 S\u01a1n H\u00e0",
+                "code": 2938,
+                "division_type": "x\u00e3",
+                "codename": "xa_son_ha",
+                "district_code": 86
+            },
+            {
+                "name": "X\u00e3 Ph\u00fa Nhu\u1eadn",
+                "code": 2944,
+                "division_type": "x\u00e3",
+                "codename": "xa_phu_nhuan",
+                "district_code": 86
+            }
+        ]
+    },
+    "87": {
+        "name": "Huy\u1ec7n B\u1ea3o Y\u00ean",
+        "code": 87,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_bao_yen",
+        "province_code": 10,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n Ph\u1ed1 R\u00e0ng",
+                "code": 2947,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_pho_rang",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Ti\u1ebfn",
+                "code": 2950,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_tien",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Ngh\u0129a \u0110\u00f4",
+                "code": 2953,
+                "division_type": "x\u00e3",
+                "codename": "xa_nghia_do",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 V\u0129nh Y\u00ean",
+                "code": 2956,
+                "division_type": "x\u00e3",
+                "codename": "xa_vinh_yen",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 \u0110i\u1ec7n Quan",
+                "code": 2959,
+                "division_type": "x\u00e3",
+                "codename": "xa_dien_quan",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n Ho\u00e0",
+                "code": 2962,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_hoa",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 T\u00e2n D\u01b0\u01a1ng",
+                "code": 2965,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_duong",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Th\u01b0\u1ee3ng H\u00e0",
+                "code": 2968,
+                "division_type": "x\u00e3",
+                "codename": "xa_thuong_ha",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Kim S\u01a1n",
+                "code": 2971,
+                "division_type": "x\u00e3",
+                "codename": "xa_kim_son",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Cam C\u1ecdn",
+                "code": 2974,
+                "division_type": "x\u00e3",
+                "codename": "xa_cam_con",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Minh T\u00e2n",
+                "code": 2977,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_tan",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Xu\u00e2n Th\u01b0\u1ee3ng",
+                "code": 2980,
+                "division_type": "x\u00e3",
+                "codename": "xa_xuan_thuong",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Vi\u1ec7t Ti\u1ebfn",
+                "code": 2983,
+                "division_type": "x\u00e3",
+                "codename": "xa_viet_tien",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Y\u00ean S\u01a1n",
+                "code": 2986,
+                "division_type": "x\u00e3",
+                "codename": "xa_yen_son",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 B\u1ea3o H\u00e0",
+                "code": 2989,
+                "division_type": "x\u00e3",
+                "codename": "xa_bao_ha",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 L\u01b0\u01a1ng S\u01a1n",
+                "code": 2992,
+                "division_type": "x\u00e3",
+                "codename": "xa_luong_son",
+                "district_code": 87
+            },
+            {
+                "name": "X\u00e3 Ph\u00fac Kh\u00e1nh",
+                "code": 2998,
+                "division_type": "x\u00e3",
+                "codename": "xa_phuc_khanh",
+                "district_code": 87
+            }
+        ]
+    },
+    "89": {
+        "name": "Huy\u1ec7n V\u0103n B\u00e0n",
+        "code": 89,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_van_ban",
+        "province_code": 10,
+        "wards": [
+            {
+                "name": "Th\u1ecb tr\u1ea5n Kh\u00e1nh Y\u00ean",
+                "code": 3055,
+                "division_type": "th\u1ecb tr\u1ea5n",
+                "codename": "thi_tran_khanh_yen",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 V\u00f5 Lao",
+                "code": 3061,
+                "division_type": "x\u00e3",
+                "codename": "xa_vo_lao",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 S\u01a1n Thu\u1ef7",
+                "code": 3064,
+                "division_type": "x\u00e3",
+                "codename": "xa_son_thuy",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 N\u1eadm M\u1ea3",
+                "code": 3067,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_ma",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 T\u00e2n Th\u01b0\u1ee3ng",
+                "code": 3070,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_thuong",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 N\u1eadm R\u1ea1ng",
+                "code": 3073,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_rang",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 N\u1eadm Ch\u1ea7y",
+                "code": 3076,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_chay",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 T\u00e2n An",
+                "code": 3079,
+                "division_type": "x\u00e3",
+                "codename": "xa_tan_an",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 Kh\u00e1nh Y\u00ean Th\u01b0\u1ee3ng",
+                "code": 3082,
+                "division_type": "x\u00e3",
+                "codename": "xa_khanh_yen_thuong",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 N\u1eadm X\u00e9",
+                "code": 3085,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_xe",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 D\u1ea7n Th\u00e0ng",
+                "code": 3088,
+                "division_type": "x\u00e3",
+                "codename": "xa_dan_thang",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 Chi\u1ec1ng Ken",
+                "code": 3091,
+                "division_type": "x\u00e3",
+                "codename": "xa_chieng_ken",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 L\u00e0ng Gi\u00e0ng",
+                "code": 3094,
+                "division_type": "x\u00e3",
+                "codename": "xa_lang_giang",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 Ho\u00e0 M\u1ea1c",
+                "code": 3097,
+                "division_type": "x\u00e3",
+                "codename": "xa_hoa_mac",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 Kh\u00e1nh Y\u00ean Trung",
+                "code": 3100,
+                "division_type": "x\u00e3",
+                "codename": "xa_khanh_yen_trung",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 Kh\u00e1nh Y\u00ean H\u1ea1",
+                "code": 3103,
+                "division_type": "x\u00e3",
+                "codename": "xa_khanh_yen_ha",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 D\u01b0\u01a1ng Qu\u1ef3",
+                "code": 3106,
+                "division_type": "x\u00e3",
+                "codename": "xa_duong_quy",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 N\u1eadm Tha",
+                "code": 3109,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_tha",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 Minh L\u01b0\u01a1ng",
+                "code": 3112,
+                "division_type": "x\u00e3",
+                "codename": "xa_minh_luong",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 Th\u1ea9m D\u01b0\u01a1ng",
+                "code": 3115,
+                "division_type": "x\u00e3",
+                "codename": "xa_tham_duong",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 Li\u00eam Ph\u00fa",
+                "code": 3118,
+                "division_type": "x\u00e3",
+                "codename": "xa_liem_phu",
+                "district_code": 89
+            },
+            {
+                "name": "X\u00e3 N\u1eadm X\u00e2y",
+                "code": 3121,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_xay",
+                "district_code": 89
+            }
+        ]
+    },
+    "91": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "92": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "93": {
+        "type": "about:blank",
+        "title": "Not Found",
+        "status": 404,
+        "detail": "invalid-district-code"
+    },
+    "94": {
+        "name": "Th\u00e0nh ph\u1ed1 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+        "code": 94,
+        "division_type": "th\u00e0nh ph\u1ed1",
+        "codename": "thanh_pho_dien_bien_phu",
+        "province_code": 11,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng Noong Bua",
+                "code": 3124,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_noong_bua",
+                "district_code": 94
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Him Lam",
+                "code": 3127,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_him_lam",
+                "district_code": 94
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Thanh B\u00ecnh",
+                "code": 3130,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_thanh_binh",
+                "district_code": 94
+            },
+            {
+                "name": "Ph\u01b0\u1eddng T\u00e2n Thanh",
+                "code": 3133,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_tan_thanh",
+                "district_code": 94
+            },
+            {
+                "name": "Ph\u01b0\u1eddng M\u01b0\u1eddng Thanh",
+                "code": 3136,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_muong_thanh",
+                "district_code": 94
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Nam Thanh",
+                "code": 3139,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_nam_thanh",
+                "district_code": 94
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Thanh Tr\u01b0\u1eddng",
+                "code": 3142,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_thanh_truong",
+                "district_code": 94
+            },
+            {
+                "name": "X\u00e3 Thanh Minh",
+                "code": 3145,
+                "division_type": "x\u00e3",
+                "codename": "xa_thanh_minh",
+                "district_code": 94
+            },
+            {
+                "name": "X\u00e3 N\u00e0 T\u1ea5u",
+                "code": 3316,
+                "division_type": "x\u00e3",
+                "codename": "xa_na_tau",
+                "district_code": 94
+            },
+            {
+                "name": "X\u00e3 N\u00e0 Nh\u1ea1n",
+                "code": 3317,
+                "division_type": "x\u00e3",
+                "codename": "xa_na_nhan",
+                "district_code": 94
+            },
+            {
+                "name": "X\u00e3 M\u01b0\u1eddng Ph\u0103ng",
+                "code": 3325,
+                "division_type": "x\u00e3",
+                "codename": "xa_muong_phang",
+                "district_code": 94
+            },
+            {
+                "name": "X\u00e3 P\u00e1 Khoang",
+                "code": 3326,
+                "division_type": "x\u00e3",
+                "codename": "xa_pa_khoang",
+                "district_code": 94
+            }
+        ]
+    },
+    "95": {
+        "name": "Th\u1ecb x\u00e3 M\u01b0\u1eddng Lay",
+        "code": 95,
+        "division_type": "th\u1ecb x\u00e3",
+        "codename": "thi_xa_muong_lay",
+        "province_code": 11,
+        "wards": [
+            {
+                "name": "Ph\u01b0\u1eddng S\u00f4ng \u0110\u00e0",
+                "code": 3148,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_song_da",
+                "district_code": 95
+            },
+            {
+                "name": "Ph\u01b0\u1eddng Na Lay",
+                "code": 3151,
+                "division_type": "ph\u01b0\u1eddng",
+                "codename": "phuong_na_lay",
+                "district_code": 95
+            },
+            {
+                "name": "X\u00e3 Lay N\u01b0a",
+                "code": 3184,
+                "division_type": "x\u00e3",
+                "codename": "xa_lay_nua",
+                "district_code": 95
+            }
+        ]
+    },
+    "96": {
+        "name": "Huy\u1ec7n M\u01b0\u1eddng Nh\u00e9",
+        "code": 96,
+        "division_type": "huy\u1ec7n",
+        "codename": "huyen_muong_nhe",
+        "province_code": 11,
+        "wards": [
+            {
+                "name": "X\u00e3 S\u00edn Th\u1ea7u",
+                "code": 3154,
+                "division_type": "x\u00e3",
+                "codename": "xa_sin_thau",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 Sen Th\u01b0\u1ee3ng",
+                "code": 3155,
+                "division_type": "x\u00e3",
+                "codename": "xa_sen_thuong",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 Chung Ch\u1ea3i",
+                "code": 3157,
+                "division_type": "x\u00e3",
+                "codename": "xa_chung_chai",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 Leng Su S\u00ecn",
+                "code": 3158,
+                "division_type": "x\u00e3",
+                "codename": "xa_leng_su_sin",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 P\u00e1 M\u1ef3",
+                "code": 3159,
+                "division_type": "x\u00e3",
+                "codename": "xa_pa_my",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 M\u01b0\u1eddng Nh\u00e9",
+                "code": 3160,
+                "division_type": "x\u00e3",
+                "codename": "xa_muong_nhe",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 N\u1eadm V\u00ec",
+                "code": 3161,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_vi",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 N\u1eadm K\u00e8",
+                "code": 3162,
+                "division_type": "x\u00e3",
+                "codename": "xa_nam_ke",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 M\u01b0\u1eddng Toong",
+                "code": 3163,
+                "division_type": "x\u00e3",
+                "codename": "xa_muong_toong",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 Qu\u1ea3ng L\u00e2m",
+                "code": 3164,
+                "division_type": "x\u00e3",
+                "codename": "xa_quang_lam",
+                "district_code": 96
+            },
+            {
+                "name": "X\u00e3 Hu\u1ed5i L\u1ebfnh",
+                "code": 3177,
+                "division_type": "x\u00e3",
+                "codename": "xa_huoi_lenh",
+                "district_code": 96
+            }
+        ]
+    }
+}
